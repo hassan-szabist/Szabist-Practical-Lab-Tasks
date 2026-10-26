@@ -1,0 +1,19 @@
+
+body {
+    background-color: #f4f6f8;
+}
+
+h1 {
+    color: #234e70;
+}
+
+.hero-section {
+    padding: 80px 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+footer {
+    background-color: #263238;
+    color: #ffffff;
+}
